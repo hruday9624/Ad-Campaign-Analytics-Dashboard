@@ -35,7 +35,7 @@ To use this project, simply run the Jupyter notebook dental-analytics.ipynb. Thi
 
 ### Files
 
-1. AdInsightsDashboard.xlsx: This is an Excel dashboard file. It contains visualizations, charts and reports that can help in analyzing the ad campaign data and gaining insights from it.
+1. Ad-Insights-Dashboard.xlsx: This is an Excel dashboard file. It contains visualizations, charts and reports that can help in analyzing the ad campaign data and gaining insights from it.
 
 2. ad_campaign_analytics.ipynb: This is a Jupyter Notebook file that contains the Python code for the analysis of the ad campaign data. The notebook is divided into different sections based on the analysis performed on the data. The sections may include data cleaning, exploratory data analysis, data visualization, and statistical analysis. This notebook will help in replicating the analysis and generating new insights from the ad campaign data.
 
